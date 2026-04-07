@@ -1,0 +1,17 @@
+--- Meta (Facebook & Instagram) Token Check ---
+
+Connecting to Meta Graph API to debug token...
+
+✅ Token Details found:
+---------------------------
+App ID: 1937957890154085
+Type: USER
+Application: Miracles
+Is Valid: YES ✅
+Expires At: Never (Permanent Token) ♾️
+
+Permissions granted:
+pages_show_list, instagram_basic, instagram_content_publish, pages_read_engagement, pages_manage_posts, public_profile
+
+Instagram ID Check:
+Found ID: 17841469588468156
