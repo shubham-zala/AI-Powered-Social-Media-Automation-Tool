@@ -2,6 +2,15 @@
 
 An intelligent social media automation platform designed for **Fintech & Market News**. This tool scrapes relevant live news from RSS feeds, uses **Google Gemini AI** to analyze and summarize content into engaging posts, generates professional social media images (via **Templated.io**), and streamlines the approval process for multi-platform publishing.
 
+## 📸 Screenshots
+
+| Dashboard | Source Page |
+| :---: | :---: |
+| ![Dashboard](assets/Dashboard_page.png) | ![Source](assets/Source_page.png) |
+
+| Pending News | History | User Management |
+| :---: | :---: | :---: |
+| ![Pending News](assets/Pending%20News.png) | ![History](assets/History%20Page.png) | ![User Management](assets/User%20Management%20Page.png) |
 ## ✨ Key Features
 
 - **🔎 Smart Content Fetching**: Aggregates live news from multiple RSS feeds (MoneyControl, Economic Times, Livemint, etc.).
@@ -64,8 +73,8 @@ The application uses a role-based access control (RBAC) system. Each user is ass
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/miraclesfintech/miracles-social-media-automation.git
-    cd miracles-social-media-automation
+    git clone https://github.com/shubham-zala/AI-Powered-Social-Media-Automation-Tool.git
+    cd AI-Powered-Social-Media-Automation-Tool
     ```
 
 2.  **Backend Setup**
